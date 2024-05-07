@@ -14,7 +14,8 @@ Este projeto contém testes de API usando o Cypress. Os testes são focados na c
 
 ## Executando os testes
 
-Para executar os testes, use o comando `npm run test`.
+Para executar os testes no modo headless, use o comando `npm run cypress:run`.
+Para executar os testes no modo interativo, use o comando `npm run cypress:open`.
 
 ## Testes
 
